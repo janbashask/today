@@ -2,6 +2,8 @@
 hi t
 
 connecting jenkins with git
+conneted to jannn
+
 
 hello what are you doing
 
